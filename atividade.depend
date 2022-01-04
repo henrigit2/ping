@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1641296894 source:/home/henrique/atividade/Icmp.cpp
+	<iostream>
+	"Icmp.h"
+
+1641296869 /home/henrique/atividade/Icmp.h
+
+1641298938 source:/home/henrique/atividade/main.cpp
+	<iostream>
+	"Ping.h"
+
+1641298950 /home/henrique/atividade/Ping.h
+
+1641299183 /home/henrique/atividade/include/Ping.h
+
+1641299267 source:/home/henrique/atividade/src/Ping.cpp
+	<iostream>
+	"Ping.h"
+
